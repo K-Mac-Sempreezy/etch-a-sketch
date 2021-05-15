@@ -1,0 +1,1 @@
+create a grid similar to an etch-a-sketch where the cursor runs along and leaves a trail of colored pixels

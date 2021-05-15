@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="36px" viewBox="0 0 40 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>etch a sketch</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="etch-a-sketch" transform="translate(0.989234, 0.702722)">
+            <rect id="Rectangle" stroke="#000000" fill="#FA0700" x="-0.489234004" y="-0.202722101" width="39" height="35" rx="2"></rect>
+            <path d="M0.0107659958,29.2972779 C-0.0439225381,32.6306112 0.109741861,34.2972779 0.471759192,34.2972779 C1.01478519,34.2972779 36.7663893,35.2337744 37.7798248,34.2972779 C38.7932604,33.3607814 38.7692464,1.69481944 37.7798248,0.630876945 C37.1202105,-0.0784180534 35.6971909,-0.189617735 33.510766,0.297277899 L33.510766,29.2972779 L0.0107659958,29.2972779 Z" id="Path" fill="#CC0600"></path>
+            <rect id="Rectangle-Copy-2" stroke="#000000" x="-0.489234004" y="-0.202722101" width="39" height="35" rx="2"></rect>
+            <rect id="Rectangle" stroke="#000000" fill="#D8EAF9" x="1.510766" y="2.7972779" width="35" height="21" rx="0.25"></rect>
+            <rect id="Rectangle-Copy" fill="#D8EAF9" x="2.010766" y="3.2972779" width="34" height="20"></rect>
+            <circle id="Oval" stroke="#000000" fill="#FFFFFF" cx="4.510766" cy="29.2972779" r="3"></circle>
+            <circle id="Oval-Copy" stroke="#000000" fill="#FFFFFF" cx="33.510766" cy="29.2972779" r="3"></circle>
+            <polygon id="Path-2" fill="#B4DFF9" points="27.2721828 23.7600256 36.010766 23.7600256 36.010766 10.495508"></polygon>
+            <polygon id="Path-3" fill="#B4DFF9" points="20.0654457 23.7600256 33.510766 3.2972779 28.3405317 3.2972779 14.6800679 23.7600256"></polygon>
+            <polygon id="Path-4" fill="#B4DFF9" points="2.010766 3.2972779 2.010766 15.2405273 12.1837365 3.2972779"></polygon>
+            <rect id="Rectangle-Copy-3" stroke="#000000" x="1.510766" y="2.7972779" width="35" height="21"></rect>
+        </g>
+    </g>
+</svg>
